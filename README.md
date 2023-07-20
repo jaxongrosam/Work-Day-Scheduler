@@ -14,6 +14,8 @@ N/A
 
 ## Usage
 
+![Screenshot](assets/scheduler-img.png)
+
 ## Credits
 
 Class material, and TA Samuel Cordova with cleaning up the local storage functions, and the click functions as seen on lines 25, 26, 28, and 33-35 of the JavaScript.
