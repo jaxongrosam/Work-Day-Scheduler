@@ -16,6 +16,8 @@ N/A
 
 A very simple application, you can type any task into any one of the blocks, and when you click the save button, whatever you typed will be saved to local storage and it will stay even after a refresh of the page. 
 
+[Application Link](https://jaxongrosam.github.io/Work-Day-Scheduler/) 
+
 ![Screenshot](assets/scheduler-img.png)
 
 ## Credits
